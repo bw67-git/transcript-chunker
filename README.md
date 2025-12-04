@@ -1,155 +1,117 @@
-transcript-chunker
+# transcript-chunker
 
-Transcript-aware, token-safe chunking for LLMs.
+**Transcript-aware, token-safe chunking for LLMs.**
 
-This tool takes long transcript files (e.g., meeting captions) and splits them into smaller, ChatGPT-friendly chunks while trying to respect:
+Split long transcripts (e.g. meeting captions) into ChatGPT-friendly chunks without slicing through speaker turns or breaking token limits.
 
-Speaker turns
+---
 
-Timestamps
+## ✨ Features
 
-Model token limits
+- ✅ Preserves **speaker turns** and **timestamps**
+- ✅ Token-aware using `tiktoken`
+- ✅ Output is ready for direct use in LLM chats
+- ✅ Simple CLI and modular Python codebase
+- 🚧 WIP: Better parsing for various formats, optional semantic chunking (`semchunk`), and CI/tests
 
-It’s designed so you can copy the resulting chunk files directly into an LLM without hitting context limits or slicing in the middle of a speaker’s turn when avoidable.
+---
 
-Status
+## 📁 Example Output
 
-Early prototype / WIP.
+Running the chunker generates files like:
 
-✅ Project scaffolded as a Python package with CLI
+```
+runs/meeting_saved_closed_caption/
+├── chunk_001.txt
+├── chunk_002.txt
+├── ...
+```
 
-✅ Virtual environment + editable install
+Each file:
+- Preserves speaker labels and timestamps
+- Ends on complete turns when possible
+- Stays under the token limit (`--max-tokens`), using fallbacks when needed
 
-✅ Basic transcript parsing and token-aware chunking
+---
 
-🚧 More robust parsing for different transcript formats
+## ⚙️ Installation (Local Development)
 
-🚧 Tests and CI
-
-🚧 Optional integration with additional text chunking libraries
-
-Installation (local development)
-
-From the project root:
-
-# Clone this repo (example)
+```bash
 git clone https://github.com/bw67-git/transcript-chunker.git
 cd transcript-chunker
 
-# Create and activate a virtual environment
 python3 -m venv .venv
 source .venv/bin/activate
 
-# Upgrade pip and install this package in editable mode
-python -m pip install --upgrade pip
-python -m pip install -e .
+pip install --upgrade pip
+pip install -e .
+```
 
+---
 
-After this, the transcript-chunker command should be available inside the virtual environment.
+## 🚀 Usage
 
-Usage
+```bash
+transcript-chunker path/to/transcript.txt \
+  --max-tokens 3000 \
+  --output-dir runs/transcript_name
+```
 
-Basic usage:
+### Arguments
 
-transcript-chunker path/to/transcript.txt --max-tokens 3000 --output-dir chunks
+| Argument | Description | Default |
+|----------|-------------|---------|
+| `input_path` | Path to transcript `.txt` file | _required_ |
+| `--max-tokens` | Max tokens per chunk (approximate) | `3000` |
+| `--output-dir` | Directory for output chunks | `chunks/` |
+| `--model` | Model name for token counting | `gpt-4` |
 
-Arguments
+---
 
-input_path (positional, required)
-Path to a plain-text transcript file.
+## 🧠 How It Works
 
---max-tokens (optional, default: 3000)
-Approximate maximum tokens per chunk. This uses tiktoken with the specified model to estimate tokens and will avoid exceeding this limit when possible.
+### 1. Parsing (`parsers.py`)
 
---output-dir (optional, default: chunks)
-Directory where the chunk files will be written. The directory will be created if it doesn’t exist.
+- Detects lines like `[Speaker Name] HH:MM:SS`
+- Groups subsequent lines into a `SpeakerTurn`
+- Creates a list of speaker turn objects
 
---model (optional, default: gpt-4)
-Model name used for token counting via tiktoken. If the model is not recognized, a fallback encoding (cl100k_base) is used.
+### 2. Chunking (`chunker.py`)
 
-Output
+- Uses `tiktoken` to count tokens per turn
+- Accumulates turns under the `--max-tokens` limit
+- If a turn is too large, splits it by line (fallback)
 
-The tool writes a series of files into the chosen output directory, for example:
+### 3. CLI (`cli.py`)
 
-chunks/
-  chunk_001.txt
-  chunk_002.txt
-  chunk_003.txt
-  ...
+- Reads input file
+- Parses turns
+- Chunks turns
+- Writes chunk files to output directory
 
+---
 
-Each file contains a subset of the original transcript text. Speaker labels and timestamps are preserved; chunk boundaries are chosen to:
+## 🧪 Example
 
-Accumulate complete speaker turns into each chunk
-
-Stay under the token limit (--max-tokens) when possible
-
-Fall back to line-based splitting if a single speaker turn is larger than the token budget
-
-How it works (high level)
-1. Parsing (parsers.py)
-
-The transcript is parsed into a list of SpeakerTurn objects. The parser:
-
-Detects lines of the form:
-
-[Speaker Name] HH:MM:SS Some text...
-
-
-Starts a new speaker turn when such a line is seen
-
-Treats subsequent lines as a continuation of the current turn until the next speaker/timestamp line
-
-Preserves blank lines inside the current turn
-
-2. Chunking (chunker.py)
-
-Chunking operates on these SpeakerTurn objects:
-
-Each speaker turn is rendered back into text with its label and timestamp
-
-tiktoken is used to estimate the token count for each turn
-
-Turns are accumulated into a chunk until adding another would exceed max_tokens
-
-A single oversized turn (larger than max_tokens on its own) is split by lines as a fallback
-
-3. CLI (cli.py)
-
-The command-line interface wires everything together:
-
-Reads the input file
-
-Parses it into turns
-
-Chunks the turns according to the settings
-
-Writes chunk files such as chunk_001.txt, chunk_002.txt, etc.
-
-Example
-
-From the project root, with .venv activated:
-
-transcript-chunker examples/sample_transcript.txt --max-tokens 3000 --output-dir chunks
+```bash
+transcript-chunker examples/sample_transcript.txt \
+  --max-tokens 3000 \
+  --output-dir chunks
 
 ls chunks
-head -n 20 chunks/chunk_001.txt
+head chunks/chunk_001.txt
+```
 
+---
 
-You should see speaker-tagged transcript content in chunk_001.txt.
+## 🙏 Acknowledgements
 
-Acknowledgements
+This tool is inspired by:
 
-This project is inspired by and conceptually informed by:
+- [tiktoken](https://github.com/openai/tiktoken) – Tokenization utilities for OpenAI models
+- [semchunk](https://github.com/normal-computing/semchunk) – Semantic + token-aware chunking
+- LangChain's recursive text splitters
 
-tiktoken
+We don’t copy code from these libraries — we reference their ideas, use their APIs when helpful, and credit them accordingly.
 
-– tokenization utilities for OpenAI models
-
-semchunk
-
-– semantic / token-aware text chunking
-
-The idea behind LangChain’s text splitters, especially RecursiveCharacterTextSplitter
-
-We are not copying large blocks of code from these projects; instead, we use them as references for design and, where appropriate, as dependencies for tokenization.
+---
