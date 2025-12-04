@@ -1,0 +1,2 @@
+[console_scripts]
+transcript-chunker = transcript_chunker.cli:main

@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "transcript-chunker"
+version = "0.1.0"
+description = "Transcript-aware, token-safe chunking for LLMs."
+authors = [
+  { name = "bw67-git", email = "247494129+bw67-git@users.noreply.github.com" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "tiktoken>=0.7.0"
+  # "semchunk>=0.1.0",  # we can add this when we decide how to integrate it
+]
+
+[project.scripts]
+transcript-chunker = "transcript_chunker.cli:main"
+
