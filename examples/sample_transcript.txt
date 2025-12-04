@@ -1,0 +1,2232 @@
+[Dhepthi Lakshmi Narasimhan] 13:31:37
+Hey, hi everyone.
+
+[Blake Weaver] 13:31:41
+Hey, everyone.
+
+[Dhepthi Lakshmi Narasimhan] 13:31:44
+Let's wait for a couple of minutes, and then get started.
+
+[Dhepthi Lakshmi Narasimhan] 13:31:49
+Okay, so don't move away from that, sir.
+
+[Dhepthi Lakshmi Narasimhan] 13:31:55
+Okay, so…
+
+[Dhepthi Lakshmi Narasimhan] 13:31:57
+You know, um…
+
+[Brian Ahearn] 13:32:00
+Hello.
+
+[Dhepthi Lakshmi Narasimhan] 13:32:02
+Hey, hi, Brynn. Hi, everyone.
+
+[Dhepthi Lakshmi Narasimhan] 13:32:07
+We tried for a couple of minutes, and then get started.
+
+[Dhepthi Lakshmi Narasimhan] 13:32:59
+I think we have almost everyone, um…
+
+[Dhepthi Lakshmi Narasimhan] 13:33:03
+Let me see if Dinesh is able to join as well.
+
+[Dhepthi Lakshmi Narasimhan] 13:33:16
+Hopefully you pick up the
+
+[Dhepthi Lakshmi Narasimhan] 13:33:20
+And it's gonna be something fun to us as having that, like,
+
+[Dhepthi Lakshmi Narasimhan] 13:33:27
+So, I think we have everyone. Let's get started. Thank you once again, um…
+
+[Dhepthi Lakshmi Narasimhan] 13:33:35
+for joining, I do see a lot of new phases over here as well.
+
+[Dhepthi Lakshmi Narasimhan] 13:33:40
+Um, this is just a third session, or the official kickoff of the X.
+
+[Dhepthi Lakshmi Narasimhan] 13:33:46
+animation that we are being, uh, doing as a POC, and then the leadership readout, um, few weeks ago.
+
+[Dhepthi Lakshmi Narasimhan] 13:33:54
+Um, thanks, Felix, I got that note, um, yeah, maybe while we cover the coverage space, you can go at first.
+
+[Felix Mankovich] 13:34:02
+Sure.
+
+[Dhepthi Lakshmi Narasimhan] 13:34:03
+In that area. The remaining 30 minutes we can cover for the other one, the fulfillment side of the world.
+
+[Felix Mankovich] 13:34:09
+Yeah.
+
+[Dhepthi Lakshmi Narasimhan] 13:34:10
+Just to set the context and give some background of this, uh, this whole, uh, trying of this technology of eggs, uh, started up somewhere around Q3, I would say, or, uh, later Q3 to…
+
+[Dhepthi Lakshmi Narasimhan] 13:34:26
+use that technology and try it out in the different product lines, or try it out in different ideas, and see
+
+[Dhepthi Lakshmi Narasimhan] 13:34:33
+how it could bring benefits to our product, uh, product lines, or product use cases, business use cases. That's where, uh, further, um, there was a small ideation crew that was formed, which was mainly led by, ideated and led by Dinesha.
+
+[Dhepthi Lakshmi Narasimhan] 13:34:50
+And then we were doing POCs around using that X technology under SHIFT, and then, uh, trying to see how that metadata could be constricted, how that metadata could be used.
+
+[Dhepthi Lakshmi Narasimhan] 13:35:03
+And what are the potential product use cases that can be built on, uh, as a technology, and then will be used?
+
+[Dhepthi Lakshmi Narasimhan] 13:35:10
+followed by a few weeks ago, uh, pretty much before the Thanksgiving, we had a presentation to our stakeholders as well, uh, to Vishal, and then, uh, uh, Pravat to kind of showcase, uh,
+
+[Dhepthi Lakshmi Narasimhan] 13:35:25
+This is how the X technology is, uh, will be beneficial for SHIPT, and these are the… some of the high-level product use cases which Sanjeev has it from the fulfillment side, and then, uh,
+
+[Dhepthi Lakshmi Narasimhan] 13:35:37
+Uh, Felix has it from the coverage side, which we could kind of leverage it and do MVP and see how we can test it and then go roll it for… forward for other product use cases.
+
+[Dhepthi Lakshmi Narasimhan] 13:35:49
+That's where, uh, for Q4, we have an official roadmap under both fulfillment side, one is under Sanjeev Ravi Ravi, under Ravi, and another one is under coverage, uh, which is under Felix.
+
+[Dhepthi Lakshmi Narasimhan] 13:36:05
+Um, there will be down the line, there will be so many consumers for this product, for this metadata, or this product use case. One of them would be, like, bundling or offering from the fulfillment side. Another one would be Metropolis for the coverage decision.
+
+[Dhepthi Lakshmi Narasimhan] 13:36:23
+Um, I do see some of the Metropolis folks over there. I didn't add bundling or offering team, uh, in this invite, because it is just a kickoff.
+
+[Dhepthi Lakshmi Narasimhan] 13:36:35
+Where we will be primarily focusing on
+
+[Dhepthi Lakshmi Narasimhan] 13:36:38
+What is the discovery that we can do to build this foundation from the technical side? Like, basically, this is a three metadata, right? One is a sharper metadata, pickup metadata, and…
+
+[Dhepthi Lakshmi Narasimhan] 13:36:50
+And then, uh, fulfill, like, uh, member metadata. So, all that are X metadata, but there are foundational piece to it, like how the X should be determined, what is the resolution,
+
+[Dhepthi Lakshmi Narasimhan] 13:37:03
+What are the parameters that goes into eggs? How it can be communicated back to the
+
+[Dhepthi Lakshmi Narasimhan] 13:37:09
+downstream users, or what are the data that can be… we can get it from the upstream feed. So those are the discovery work that we'll be primarily doing for the half of the
+
+[Dhepthi Lakshmi Narasimhan] 13:37:20
+H4… Q4.
+
+[Dhepthi Lakshmi Narasimhan] 13:37:22
+And the remaining queue for… we have, uh, we have already kind of a draft PRD ready under coverage, as well as under the fulfillment side.
+
+[Dhepthi Lakshmi Narasimhan] 13:37:32
+We'll be going through that, so both the things we'll be working on on parallel way, and we will build an MVP for…
+
+[Dhepthi Lakshmi Narasimhan] 13:37:40
+early Q1, or, uh, end of Q4, uh, based on how things are going.
+
+[Dhepthi Lakshmi Narasimhan] 13:37:46
+This is… this is overall the context, and this is how the plan is going to be in the coming weeks.
+
+[Dhepthi Lakshmi Narasimhan] 13:37:51
+Uh, with that, uh…
+
+[Dhepthi Lakshmi Narasimhan] 13:37:54
+Maybe, Felix, you want to go ahead and then share your high-level
+
+[Dhepthi Lakshmi Narasimhan] 13:37:59
+PRD, or the…
+
+[Dhepthi Lakshmi Narasimhan] 13:38:01
+Uh, one-pager related to the coverage.
+
+[Dhepthi Lakshmi Narasimhan] 13:38:06
+And then followed by Ravik and share the PRD.
+
+[Felix Mankovich] 13:38:12
+Sure, just give me one second to get it.
+
+[Felix Mankovich] 13:38:14
+And I don't…
+
+[Felix Mankovich] 13:38:18
+you know, a clean one-pager to talk through, just trying to see if I've got…
+
+[Felix Mankovich] 13:38:25
+different piece of content.
+
+[Dhepthi Lakshmi Narasimhan] 13:38:30
+given the time I went very quickly.
+
+[Felix Mankovich] 13:38:32
+Yeah, no, no, no, that's totally fine. I'm just trying to find what theirs, and I'll just share this.
+
+[Felix Mankovich] 13:38:38
+single piece of this slide, because I think it, like, summarizes why, if people want to read the full PRD, it's available, I'll put it in Champ.
+
+[Felix Mankovich] 13:38:48
+Which is much more detailed.
+
+[Felix Mankovich] 13:38:50
+From there, um…
+
+[Felix Mankovich] 13:38:53
+But this will just kind of talk through, and I think the important piece that I'll tackle is…
+
+[Felix Mankovich] 13:38:59
+how we're gonna look at changing how we define…
+
+[Felix Mankovich] 13:39:04
+coverage, and then ultimately, um, there's a timeline element of it, which is where we will need some partnership with some of the other teams that are here. But ultimately, what we're trying to do is, rather than using the existing processes,
+
+[Felix Mankovich] 13:39:23
+Um, where we…
+
+[Felix Mankovich] 13:39:27
+Uh, kind of do a mapping of, like, retailers to zip codes, and do a bunch of extra calculations to determine what are the closest locations, and all of those things. What instead will do
+
+[Felix Mankovich] 13:39:38
+is use, uh, HEX as a way of defining
+
+[Felix Mankovich] 13:39:43
+using store locations as a way of defining what hexes are going to be ultimately lit up and available,
+
+[Felix Mankovich] 13:39:50
+for, um…
+
+[Felix Mankovich] 13:39:54
+specific retailers, and this is where we're still defining this, but we're creating a concept that I've called critical mass, which is basically what is the right amount of…
+
+[Felix Mankovich] 13:40:05
+uh… retailers, drive times, population, other key data points necessary to say that, like, if you live in this hex, you can use shifter or not.
+
+[Felix Mankovich] 13:40:16
+Um, and ultimately, this is kind of a…
+
+[Felix Mankovich] 13:40:20
+shift in how we look at…
+
+[Felix Mankovich] 13:40:22
+at how we've currently defined coverage, which is all based on, do you live in this zip or not? Now we can get very precise to say, do you live in this hacks?
+
+[Felix Mankovich] 13:40:29
+One thing I'll call out is where we do need to have
+
+[Felix Mankovich] 13:40:32
+zip codes lit up because we're required to do so.
+
+[Felix Mankovich] 13:40:36
+we can. Um, I think that's just part of the nuance within, like, critical mass, because there are definitely some instances and spots where…
+
+[Felix Mankovich] 13:40:44
+We have to ensure that we are providing coverage.
+
+[Felix Mankovich] 13:40:49
+But the cool thing that we can do with it is the way that we'll end up generating this
+
+[Felix Mankovich] 13:40:55
+network is by taking every store location and giving it a drive time, and seeing how those drive times overlap. So…
+
+[Felix Mankovich] 13:41:02
+What we can now do is we can also find, in those areas where we operate in zips, and we're unsure of what retailers we want to make available, or what locations we want to make available, because we didn't have
+
+[Felix Mankovich] 13:41:14
+enough of the granular data necessary to be able to make those decisions.
+
+[Felix Mankovich] 13:41:19
+that we can…
+
+[Felix Mankovich] 13:41:20
+now expose that data and make it easier to do those calculations, while also decoupling it from
+
+[Felix Mankovich] 13:41:27
+the complexities that kind of come in with, um…
+
+[Felix Mankovich] 13:41:31
+how serving address operates currently.
+
+[Felix Mankovich] 13:41:37
+Blake.
+
+[Blake Weaver] 13:41:38
+Yeah, one thing I wanted to mention, um, and Brian and I talked about this earlier this week,
+
+[Blake Weaver] 13:41:44
+is in this next quarter, one of the things we want to make sure that we can do is match a one-to-one
+
+[Blake Weaver] 13:41:50
+Ah, but Hex can basically do a one-to-one…
+
+[Blake Weaver] 13:41:53
+Um, match of our existing coverage, uh, within a 5% variance.
+
+[Blake Weaver] 13:41:59
+And one of the things that we talked about
+
+[Blake Weaver] 13:42:02
+Um, to kind of sh…
+
+[Blake Weaver] 13:42:05
+jump too quickly if there's any issues with that variance.
+
+[Blake Weaver] 13:42:08
+is mapping, um…
+
+[Blake Weaver] 13:42:12
+basically storing zip code data in the hex.
+
+[Blake Weaver] 13:42:15
+And then saying, if this zip code is active…
+
+[Blake Weaver] 13:42:19
+And this zip code is in this hex light it up, so we can kind of see a mapping.
+
+[Blake Weaver] 13:42:23
+of how there is, um…
+
+[Blake Weaver] 13:42:25
+the hex version matches the zip version.
+
+[Blake Weaver] 13:42:29
+So we can better get to if there's any issues like Felix was talking about, where there's… because we have to light up.
+
+[Blake Weaver] 13:42:36
+what… how we can solve that, or if there's anything major that we need to…
+
+[Blake Weaver] 13:42:40
+know before doing the drive time calculation.
+
+[Felix Mankovich] 13:42:46
+Yeah.
+
+[Felix Mankovich] 13:42:50
+That kind of tees up the next part around, like,
+
+[Felix Mankovich] 13:42:54
+timing and what our plan is.
+
+[Felix Mankovich] 13:42:56
+Um… or all that.
+
+[Brian Ahearn] 13:43:01
+Can I ask me a, uh…
+
+[Brian Ahearn] 13:43:03
+Silly question, but, like, who is doing what? Do we have… do we know that?
+
+[Felix Mankovich] 13:43:10
+Uh, when you say who, as in, like, which team is defining
+
+[Felix Mankovich] 13:43:15
+What, or…?
+
+[Brian Ahearn] 13:43:17
+Yeah, like, which engineers are building… like, what is… what does the architecture look like at a high level, and what engineers…
+
+[Felix Mankovich] 13:43:22
+So…
+
+[Brian Ahearn] 13:43:23
+Which pieces.
+
+[Dhepthi Lakshmi Narasimhan] 13:43:24
+I can… I can think that…
+
+[Felix Mankovich] 13:43:24
+So… go ahead, Duffy.
+
+[Dhepthi Lakshmi Narasimhan] 13:43:27
+Yeah. Do you have this slide, or can I share?
+
+[Felix Mankovich] 13:43:32
+You can share, Megan.
+
+[Dhepthi Lakshmi Narasimhan] 13:43:40
+So…
+
+[Dhepthi Lakshmi Narasimhan] 13:43:42
+This is the main thing. This is the long-term goal that we will be building, uh, Brian. Like, uh…
+
+[Dhepthi Lakshmi Narasimhan] 13:43:49
+Basically, there are 3 foundational things that we need to set it up to help
+
+[Dhepthi Lakshmi Narasimhan] 13:43:53
+Either the fulfillment side or on the coverage side. The sharper medics, pickup meta-ax, and delivery meta-ax.
+
+[Dhepthi Lakshmi Narasimhan] 13:44:00
+From engineering perspective, we will be focusing on how that foundation will be built, of how the metadata of X will come into picture for SHIP, and what are the params that would come under each X, each meta under these things.
+
+[Dhepthi Lakshmi Narasimhan] 13:44:17
+For… to begin with, for this Q4 and the Q1, we'll be mainly focused on Sharper and the pickup.
+
+[Dhepthi Lakshmi Narasimhan] 13:44:23
+And the engineering team are the ones who are here. Uh, we'll have a… we'll have a principal who is, uh, Dinesh, who will be leading this initiative.
+
+[Dhepthi Lakshmi Narasimhan] 13:44:33
+And we have a staff and two, uh, senior engineering team. It's a pretty small team. As we kind of have a discovery completed,
+
+[Dhepthi Lakshmi Narasimhan] 13:44:42
+We can onboard more folks into the picture, but this will be a team where it will be a split of staff and the seniors.
+
+[Dhepthi Lakshmi Narasimhan] 13:44:51
+building along with the principal for this main two meta-ex, uh, sharper, and then pick up delivery, we will, we will, we will not focus it
+
+[Dhepthi Lakshmi Narasimhan] 13:45:01
+for, at least for the next twoarts, but down the line, it will come. But overall, when you look at the long-term goal from the tech side, or from the…
+
+[Dhepthi Lakshmi Narasimhan] 13:45:12
+Um, tech roadmap, this is the full vision of, uh,
+
+[Dhepthi Lakshmi Narasimhan] 13:45:16
+The things that will be built.
+
+[Brian Ahearn] 13:45:18
+So what… what teams are these doing this? The shopper meta…
+
+[Brian Ahearn] 13:45:22
+So this is trying to get shopper metadata into a hex, is that what this is? Not sure I'm following what this means.
+
+[Dhepthi Lakshmi Narasimhan] 13:45:29
+So, Sharper Meta Inx will hold all the information that are connected to the shoppers based on the Geo platform.
+
+[Brian Ahearn] 13:45:37
+Okay.
+
+[Dhepthi Lakshmi Narasimhan] 13:45:39
+And pick up Meta deck, meta in X will hold all the information related to the coverage, or the zones, or the kind of zips that is covered, and then the things that needs to be extended.
+
+[Dhepthi Lakshmi Narasimhan] 13:45:52
+the retailer, all the related things. Delivery meta in X is kind of, um…
+
+[Dhepthi Lakshmi Narasimhan] 13:45:59
+flip side of Sharpermit IX, but in the customer angle, like, how do we see it in the customer angle? Like,
+
+[Dhepthi Lakshmi Narasimhan] 13:46:06
+average fulfillment time, or number of customers involved, what's the, uh, what's the…
+
+[Dhepthi Lakshmi Narasimhan] 13:46:12
+delta between… from this to X to that X, from this toe to that, like that.
+
+[Dhepthi Lakshmi Narasimhan] 13:46:17
+So, these… these three will pull data that is
+
+[Dhepthi Lakshmi Narasimhan] 13:46:22
+respective to their particular, uh, space. It will talk either about Sharper, or it will talk about the coverage or the pickup.
+
+[Dhepthi Lakshmi Narasimhan] 13:46:30
+Or it'll talk about the member. But from the product functionality perspective,
+
+[Dhepthi Lakshmi Narasimhan] 13:46:35
+coverage might… will start using pickup.
+
+[Dhepthi Lakshmi Narasimhan] 13:46:39
+And then down the line, it will use delivery as well.
+
+[Dhepthi Lakshmi Narasimhan] 13:46:44
+Like, waste fulfillment will start with the shopper. For the shopper use… for the fulfillment use case.
+
+[Dhepthi Lakshmi Narasimhan] 13:46:49
+And down the line, they'll start using the other meta-X as well. But this… these three things will be the foundational data set or data asset, we can call it as.
+
+[Brian Ahearn] 13:46:59
+And I asked why we're calling it pickup. I'm not sure, I've never… I've ever heard that terminology used at the org before.
+
+[Dineshkumar’s Iphone] 13:47:07
+I think the pickup is because it's ideally stored, you can think of this as a store, but there is also there, we have this, uh, new thing that might come in, like, where…
+
+[Dineshkumar’s Iphone] 13:47:17
+store is not the only place they'll end up picking up, so that's probably why we say pick up, like, there are, like, temporary stores, the 3PL and stuff, but I… I would at least say that's a pickup meta, but we… I mean, a store,
+
+[Dineshkumar’s Iphone] 13:47:30
+later information on the coverage level and network level, and how far you want to go from a certain area, and how far you want to serve.
+
+[Dineshkumar’s Iphone] 13:47:38
+The bigger category I would think of is, like, shoppermit has mostly pretty all the geo-shopper data, which we serve in a shopper level.
+
+[Dineshkumar’s Iphone] 13:47:46
+Whereas a pickup in there, our aspect is more coverage heavy.
+
+[Brian Ahearn] 13:47:50
+So, pickup is kind of more like fulfillment locations, like where you would pick up from, that's what we meant by pickup.
+
+[Dineshkumar’s Iphone] 13:47:56
+what did you say? Sorry, I can hear.
+
+[Brian Ahearn] 13:47:57
+So it would be, like, fulfillment locations, that's what we mean by pickup, is, like, where you would pick up from.
+
+[Dineshkumar’s Iphone] 13:48:00
+Mm-hmm. Yeah, correct, correct.
+
+[Dineshkumar’s Iphone] 13:48:02
+And delivery meta is mostly a lot of, actually, the pay side of the story, like the flight plan, delivery time, fulfillment, uh, for a particular member.
+
+[Dineshkumar’s Iphone] 13:48:12
+are, like, how that should be, that behaviors, but will also be…
+
+[Dineshkumar’s Iphone] 13:48:17
+fueled by the shopper engagement data, so there's a component of…
+
+[Dineshkumar’s Iphone] 13:48:21
+mostly geo and Pay will be using it.
+
+[Dineshkumar’s Iphone] 13:48:24
+In the future, other teams, like, offering and all, can use leverage as well.
+
+[Brian Ahearn] 13:48:28
+Sure, okay.
+
+[Brian Ahearn] 13:48:31
+And now, all of these things feel like they're…
+
+[Brian Ahearn] 13:48:35
+downstream…
+
+[Brian Ahearn] 13:48:36
+to the actual mapping of the hexes, and, like, the service that powers the hex…
+
+[Brian Ahearn] 13:48:42
+tool, right?
+
+[Brian Ahearn] 13:48:44
+Because, like, we… in my… in my mind, which is…
+
+[Brian Ahearn] 13:48:47
+slow and small.
+
+[Brian Ahearn] 13:48:49
+there's, like, a layer of that defines the hex.
+
+[Brian Ahearn] 13:48:54
+everything. And then each of the different teams
+
+[Brian Ahearn] 13:48:57
+can populate those hexes with information that they need to…
+
+[Brian Ahearn] 13:49:01
+make decisions for their respective services. Is that how other people are envisioning it, or is that different than how you've envisioned it?
+
+[Dhepthi Lakshmi Narasimhan] 13:49:12
+So, so…
+
+[Dhepthi Lakshmi Narasimhan] 13:49:15
+Down the line, it will go in that path, but to begin with, we wanted to kind of set a kind of design in place, like, this is how the pattern should be followed. When you want to…
+
+[Dhepthi Lakshmi Narasimhan] 13:49:28
+So, when you wanted to elaborate more data set into that metadata, so this is how the cadence can be followed, or this is how the design pattern can be followed.
+
+[Dhepthi Lakshmi Narasimhan] 13:49:37
+So, to begin with, it will be under gig platform, but it could be open-sourced once we have a stable
+
+[Dhepthi Lakshmi Narasimhan] 13:49:46
+foundation in place.
+
+[Dineshkumar’s Iphone] 13:49:48
+And, and yes, and also, Brian, to your point, true, right? It's what it should be, like, every hex, you will have all these parameters and types,
+
+[Dineshkumar’s Iphone] 13:49:58
+On the other hand, how do we execute it? Like, we have to start, like,
+
+[Dineshkumar’s Iphone] 13:50:03
+maybe it'll be extremely good as, like, one single hex-gigantic hex layer that can serve everything, collect everything, perform everything, but
+
+[Dineshkumar’s Iphone] 13:50:12
+building something from get-go is going to be not feasible, so we will…
+
+[Dineshkumar’s Iphone] 13:50:19
+try to target, like, try to build a generic platform. That's basically what the kickoff team is going to do, like,
+
+[Dineshkumar’s Iphone] 13:50:24
+engineering, what it should be, how it should be. We have those two UIs and demos and built based on what we think is a simple, quick start.
+
+[Dineshkumar’s Iphone] 13:50:32
+But if you want to build it something as a platform,
+
+[Dineshkumar’s Iphone] 13:50:35
+We need to do a lot of brainstorming and how that whole layer should work. Should it be two different systems for safety decoupling, PII, those kind of stuff? Those are things we wanted to
+
+[Dineshkumar’s Iphone] 13:50:45
+explore and have a design to start with.
+
+[Dineshkumar’s Iphone] 13:50:50
+but theoretically, like, rather theoretically, from a structurally…
+
+[Dineshkumar’s Iphone] 13:50:56
+what you're saying is correct. Like, every single hex, we should know information, all these parameters and metadata for us to take decision. In an ideal world, there should be one black box that gives us all the information about all the hexes, that's perfect.
+
+[Dhepthi Lakshmi Narasimhan] 13:51:07
+really aware of the codes.
+
+[Brian Ahearn] 13:51:08
+Well, we're not starting with that, we're starting with…
+
+[Brian Ahearn] 13:51:10
+like a prototype?
+
+[Dineshkumar’s Iphone] 13:51:12
+We are starting with small prototype, but at the same time trying to think platform.
+
+[Dineshkumar’s Iphone] 13:51:17
+Uh, thinking.
+
+[Dineshkumar’s Iphone] 13:51:19
+and see how that platform can establish and scale and perform. That's basically where we'll spend a lot of time
+
+[Dineshkumar’s Iphone] 13:51:25
+brainstorming and start implementing piece by piece.
+
+[Brian Ahearn] 13:51:29
+Okay, so I just have some learning to do about what the prototype is. I'll pause, Jack, you got your hand up.
+
+[Jack Caspers] 13:51:35
+comment was just gonna be that maybe I was thinking about this wrong, but the hex…
+
+[Jack Caspers] 13:51:38
+by using, um, this library, this hex layer, it basically allows each team to
+
+[Jack Caspers] 13:51:44
+It basically can connect each team and sort of the data they want to store at
+
+[Jack Caspers] 13:51:47
+the hexlayer, because it's all, um…
+
+[Dhepthi Lakshmi Narasimhan] 13:51:50
+You're welcome.
+
+[Jack Caspers] 13:51:50
+like, the ID for one hex is going to be the same across
+
+[Jack Caspers] 13:51:54
+all the teams, and so therefore, like, if I'm storing information on the coverage layer about, um,
+
+[Jack Caspers] 13:51:59
+store location information, and there's another team storing information on shoppers in terms of, like, their real-time location. Uh, you can connect those
+
+[Jack Caspers] 13:52:06
+Basically, because we're using this, uh, system, which is the, uh, the powerful part of it.
+
+[Jack Caspers] 13:52:12
+Um, and so…
+
+[Jack Caspers] 13:52:14
+by using this, it's, it's, um…
+
+[Jack Caspers] 13:52:17
+It allows team to kind of operate independently, and then…
+
+[Jack Caspers] 13:52:20
+when we bring it all together, it should work a lot easier than just using, um,
+
+[Jack Caspers] 13:52:24
+you know, zip codes or, uh…
+
+[Jack Caspers] 13:52:26
+flat-longs or things like that.
+
+[Dhepthi Lakshmi Narasimhan] 13:52:28
+Yeah, post…
+
+[Brian Ahearn] 13:52:28
+Yeah, that's… that's how I envision it.
+
+[Dhepthi Lakshmi Narasimhan] 13:52:30
+you know, post-MVP, the talking terms would be, like, XIDs. Hey, give me this, because they would have already the other connecting teams would already know about those XIDs based upon…
+
+[Dhepthi Lakshmi Narasimhan] 13:52:42
+their own data. So, it can enrich more things by connecting.
+
+[Dhepthi Lakshmi Narasimhan] 13:52:46
+having this as a connecting point.
+
+[Brian Ahearn] 13:52:51
+Okay.
+
+[Dhepthi Lakshmi Narasimhan] 13:52:57
+Any other questions?
+
+[Brian Ahearn] 13:53:04
+I mean, I've got a lot of questions about the prototype, but I don't want to monopolize the time. I don't know what he wants to get out of it.
+
+[Dhepthi Lakshmi Narasimhan] 13:53:04
+Okay.
+
+[Felix Mankovich] 13:53:07
+I… I… I… I'll say, I think the…
+
+[Felix Mankovich] 13:53:12
+some of the questions might come in where I'll talk through, like, what our plan is and what our goal is, and how we're looking at doing the prototype, so that might also help answer some of those. So what our goal…
+
+[Felix Mankovich] 13:53:22
+Within coverage, ultimately, is within Q4 and into Q1, it's ultimately stand up a proof of concept, so to what Blake had alluded to on us creating kind of a replica
+
+[Felix Mankovich] 13:53:35
+coverage within a given metro to see if
+
+[Felix Mankovich] 13:53:37
+within the H3 system, we can service coverage as it exists right now. And one of the pieces with that is working with the retailer folks, which I know why they're here, but ultimately implementing in a way for us to shadow call across serving address to the cover check system, so that way we can start to understand where are we getting similar results, where are we getting different results,
+
+[Felix Mankovich] 13:54:01
+Why are we getting differing results? So that way, we can find ways to ultimately ensure that this system can be scaled.
+
+[Felix Mankovich] 13:54:10
+Um, and ultimately, those learnings will start to feed into us once we get out of
+
+[Felix Mankovich] 13:54:15
+kind of showing that, yes, we can successfully replicate, uh,
+
+[Felix Mankovich] 13:54:20
+coverage. Yep. Thank you. Um, within, uh,
+
+[Dhepthi Lakshmi Narasimhan] 13:54:21
+That's it.
+
+[Felix Mankovich] 13:54:24
+like, one-to-one model, or one-to-one-ish.
+
+[Felix Mankovich] 13:54:27
+bubble of model. From there, ultimately, we will scale out building out coverage for basically every metro, and then start ultimately activating the…
+
+[Felix Mankovich] 13:54:37
+metro that we feel good on, so moving from being from shadow mode into live traffic, and this is where we get into admin tooling,
+
+[Felix Mankovich] 13:54:45
+And then everything from there…
+
+[Felix Mankovich] 13:54:49
+We can talk about it otherwise, but for the sake of time and my own time pressures, I'll just kind of pause there for what we're trying to do within…
+
+[Felix Mankovich] 13:54:56
+Q4 and Q1, and then kind of our MVP POC.
+
+[Dhepthi Lakshmi Narasimhan] 13:55:00
+Yeah. So, with that, like, for coverage, we will get started with this under coverage squad, uh…
+
+[Dhepthi Lakshmi Narasimhan] 13:55:08
+for the pickup Meta X, uh, meta in X portion, and then down the line, once we complete the disk query, that's where, like, we will be closely collaborating with the Metropolis team.
+
+[Dhepthi Lakshmi Narasimhan] 13:55:20
+Which were for your, like, John and Blake, or Anthony, is that right, Felix?
+
+[Felix Mankovich] 13:55:29
+Yep.
+
+[Dhepthi Lakshmi Narasimhan] 13:55:29
+Yeah, for the partnership on making this, uh, making this as a shadow mode,
+
+[Dhepthi Lakshmi Narasimhan] 13:55:35
+Uh, so that it has zero, uh, operational risk to begin with for the MEP rollout.
+
+[Brian Ahearn] 13:55:44
+So…
+
+[Brian Ahearn] 13:55:47
+I agree with that. I think the piece that I'm missing…
+
+[Brian Ahearn] 13:55:52
+I'm curious about is…
+
+[Brian Ahearn] 13:55:56
+And theoretically,
+
+[Brian Ahearn] 13:55:57
+I'm a believer in HEX, I get it.
+
+[Brian Ahearn] 13:55:59
+I think it's… makes a lot of sense. I think there's a lot of opportunity for it.
+
+[Brian Ahearn] 13:56:04
+But if someone…
+
+[Brian Ahearn] 13:56:06
+paid more than me, asked me, what is it worth to the organization? I would not have a good answer. I mean, I could… again, I could dance around it.
+
+[Brian Ahearn] 13:56:15
+But I don't have the answer to say it's gonna unlock
+
+[Felix Mankovich] 13:56:16
+Hi.
+
+[Brian Ahearn] 13:56:19
+X, and here's how we're gonna arrive at it.
+
+[Felix Mankovich] 13:56:22
+I think what'll end up unlocking for us is all the conversations that we've had around partial zips, and how we would enable them. This gives us a easy system to enable it. While we could have enabled partial zips
+
+[Felix Mankovich] 13:56:36
+previously within the systems that we built, there was…
+
+[Felix Mankovich] 13:56:39
+a lot of engineering complexity in doing so.
+
+[Felix Mankovich] 13:56:43
+And I think on the other side is that it makes us be able to realize the gains of the…
+
+[Felix Mankovich] 13:56:50
+Go Big expansions that we've had.
+
+[Felix Mankovich] 13:56:53
+in more metros more easily.
+
+[Felix Mankovich] 13:56:56
+Because the previous expansions that we did and the other things, like 45 Metros, were very much, um…
+
+[Felix Mankovich] 13:57:06
+labor-intensive and analysis-intensive.
+
+[Felix Mankovich] 13:57:09
+Where now that we've proven out that it makes sense, we could apply the same logic to how we generate coverage through the HEC system, to then have it be applied to
+
+[Felix Mankovich] 13:57:20
+basically all metros.
+
+[Brian Ahearn] 13:57:25
+Yeah, I mean, that's not far of what I would say, but it's still… I don't think it… it…
+
+[Brian Ahearn] 13:57:32
+answers the question of, like,
+
+[Brian Ahearn] 13:57:34
+what are we doing to get to a dollar value, per se? As hard as that would be to arrive at.
+
+[Felix Mankovich] 13:57:38
+Oh, yeah.
+
+[Felix Mankovich] 13:57:40
+I mean, this is where I'm… we're actively working with data science to create a model that gives a dollar value that we can assign to a half.
+
+[Felix Mankovich] 13:57:49
+And that dollar value is based off of a lot of the work that came into rationalizing why GoBig was a thing that we did, where more retailers is worth more money.
+
+[Brian Ahearn] 13:57:57
+Yeah.
+
+[Felix Mankovich] 13:58:00
+And they've… are working through a way of being able to correlate, hey, adding more retailers or doing more
+
+[Felix Mankovich] 13:58:10
+more network optimization actions,
+
+[Felix Mankovich] 13:58:14
+increases, I think what they landed on was net variable profit.
+
+[Brian Ahearn] 13:58:19
+Yeah.
+
+[Felix Mankovich] 13:58:20
+So that way, we can say that, like, now we can understand
+
+[Felix Mankovich] 13:58:24
+Adding in this retailer will increase net variable profit by X amount, changing the…
+
+[Felix Mankovich] 13:58:31
+Um…
+
+[Felix Mankovich] 13:58:33
+changing the delivery time for all of these locations in western Chicago.
+
+[Felix Mankovich] 13:58:39
+While it'll increase cost by…
+
+[Felix Mankovich] 13:58:41
+whatever, it'll end up driving up, uh…
+
+[Felix Mankovich] 13:58:45
+net variable profits,
+
+[Felix Mankovich] 13:58:47
+by a higher amount.
+
+[Brian Ahearn] 13:58:50
+Yeah, and that's just, like, that's just the thing that we should have eyes on as we kind of proceed down this path, because as this gets bigger and…
+
+[Felix Mankovich] 13:58:53
+Yep.
+
+[Brian Ahearn] 13:58:57
+takes more of our time and gets talked about more. The question will get asked more, and we need to have an answer to it, so…
+
+[Brian Ahearn] 13:59:02
+That's all.
+
+[Felix Mankovich] 13:59:03
+Yes, and that's part…
+
+[Dhepthi Lakshmi Narasimhan] 13:59:03
+That's a truly valid point, Brian. Like, even when we were showcasing this earlier as well, right, like,
+
+[Dhepthi Lakshmi Narasimhan] 13:59:12
+opportunity sizing as in, like, we had… we had kind of a good picture or good understanding on the other side of the product use case, whereas this one, we told it it will be more of a technological test.
+
+[Dhepthi Lakshmi Narasimhan] 13:59:24
+Rather than being… finding out what… what exactly it was going to bring into picture, because
+
+[Dhepthi Lakshmi Narasimhan] 13:59:31
+the polygons, or the partial zips is kind of doing what it is required for the Go Big expansions or anything, but definitely down the line, I think we will be partnering along with DS to find that opportunity and then try it out.
+
+[Dhepthi Lakshmi Narasimhan] 13:59:45
+Once this technology is out there for MVP.
+
+[Dhepthi Lakshmi Narasimhan] 13:59:51
+With that being said, uh, with the time in mind, I wanted to jump into the other side of the section. Felix, do you have anything else to cover?
+
+[Felix Mankovich] 14:00:00
+No, no, that I will drop off to go talk about the same thing.
+
+[Dhepthi Lakshmi Narasimhan] 14:00:04
+Thank you, guys.
+
+[Felix Mankovich] 14:00:05
+I think so.
+
+[Dhepthi Lakshmi Narasimhan] 14:00:06
+From the fulfillment side, we had two product, uh, use case. I think we will be using one. I believe it's, uh, number one, the Surface Faster Delivery Promise.
+
+[Dhepthi Lakshmi Narasimhan] 14:00:16
+But Ravi, correct me if I'm wrong, or share the PRD, and let us… can you share more details on this?
+
+[Ravi Badwe] 14:00:24
+Yeah, I can… I can… actually, I can share that with you, Adi, that, uh…
+
+[Dhepthi Lakshmi Narasimhan] 14:00:26
+I would structure it, yeah.
+
+[Ravi Badwe] 14:00:28
+you know, Sanjeev started, and…
+
+[Ravi Badwe] 14:00:32
+I actually need to drop as well, because I'm presenting in the Product Council, um…
+
+[Ravi Badwe] 14:00:36
+Let me… let me just share a link to this document in the… in the chat.
+
+[Ravi Badwe] 14:00:41
+And we'll be working on this further, you know, it is… this is the starting point.
+
+[Ravi Badwe] 14:00:46
+Um, and as you were showing, Depti, there are two use cases, like surfacing, for example, so first one is surfacing the availability
+
+[Ravi Badwe] 14:00:54
+on the, um…
+
+[Ravi Badwe] 14:00:57
+Oh, there you go. Yeah, so surfacing the availability on, uh, the homepage, which is the…
+
+[Ravi Badwe] 14:01:03
+you know, the Shipt app,
+
+[Ravi Badwe] 14:01:05
+homepage, and the other pieces are on ETA-based delivery promise.
+
+[Ravi Badwe] 14:01:08
+Um, I can quickly summarize. We don't have a one-pager, but if I have to summarize the PRE that I just shared, so I, you know, basically,
+
+[Ravi Badwe] 14:01:15
+As of now, currently, you know, we…
+
+[Ravi Badwe] 14:01:18
+Our delivery experience has one gap, which is…
+
+[Ravi Badwe] 14:01:21
+To begin with, like, the global homepage, we don't show any delivery promises.
+
+[Ravi Badwe] 14:01:25
+At all. And, uh, on the retailer, and also the same thing on the retailer homepage, and…
+
+[Ravi Badwe] 14:01:30
+And, you know, we kind of just show, like, broader…
+
+[Ravi Badwe] 14:01:33
+hourly windows, if you're talking about the retailer homepage.
+
+[Ravi Badwe] 14:01:36
+And, you know, members, they start to see, like, when their order will really arrive by, you know, let's say 4.15, you know, it's…
+
+[Ravi Badwe] 14:01:44
+It's only, you know, after the shopper has actually started to shop.
+
+[Ravi Badwe] 14:01:48
+Right, that's… that's… that's the starting point right now, so…
+
+[Ravi Badwe] 14:01:50
+Obviously, from the member standpoint, this…
+
+[Ravi Badwe] 14:01:53
+Creates a visibility gap, and they don't have, like, a…
+
+[Ravi Badwe] 14:01:57
+a clear real-time ETA early enough in the journey. I mean, you know, you can think about journey as…
+
+[Ravi Badwe] 14:02:02
+coming to ShiptApp, you know, getting on the retailer homepage.
+
+[Ravi Badwe] 14:02:06
+building the cart, and then selecting the availability, so…
+
+[Ravi Badwe] 14:02:11
+all that journey is kind of a little bit blinded. They have just general guesses around how much
+
+[Ravi Badwe] 14:02:15
+When their order at the earliest will arrive.
+
+[Ravi Badwe] 14:02:17
+And yeah, they don't know exactly when the groceries will live and whatnot, so…
+
+[Ravi Badwe] 14:02:22
+Um, having, you know, basically giving them the visibility early on, either, you know, actually through both.
+
+[Ravi Badwe] 14:02:29
+Uh, you know, basically faster delivery promises on the…
+
+[Ravi Badwe] 14:02:32
+The GHP, RHP, and yeah, the ETA-based delivery promises, right?
+
+[Ravi Badwe] 14:02:36
+Um, and, uh…
+
+[Ravi Badwe] 14:02:40
+like, for example, if you want to offer something like,
+
+[Ravi Badwe] 14:02:43
+Oh, you can get your stuff delivered in the next 30 minutes.
+
+[Ravi Badwe] 14:02:46
+You know, we can… we can show that on the…
+
+[Ravi Badwe] 14:02:48
+on the DHP, RHP, and kind of that incentivizes members to,
+
+[Ravi Badwe] 14:02:53
+either place the order, or might also have order volume conversion splintered.
+
+[Ravi Badwe] 14:02:57
+Um, now the key thing is, like, how do we upgrade?
+
+[Ravi Badwe] 14:03:01
+that experience is to have ETA-based
+
+[Ravi Badwe] 14:03:05
+a delivery promise throughout the entire journey, right? I mean, I know this is, like, one or two, but I think they are dependent.
+
+[Ravi Badwe] 14:03:11
+We need to, you know, at least in my mind, we need to understand
+
+[Ravi Badwe] 14:03:15
+So, basically, for example,
+
+[Ravi Badwe] 14:03:18
+what would be the ETA, you know, let's say if the member has not started to build their cart, what would be the ETA?
+
+[Ravi Badwe] 14:03:24
+And if they have built their car, then using that information to calculate accurate ATA, right? And…
+
+[Ravi Badwe] 14:03:29
+basically, what would be required? What kind of signals we would need to calculate that ETA,
+
+[Ravi Badwe] 14:03:35
+I mean, you can think about just overall journey from
+
+[Ravi Badwe] 14:03:39
+Let's say if a member places an order, it would be claiming… so, first of all, offering, then claiming, time to claim, time to…
+
+[Ravi Badwe] 14:03:46
+get to the store, time to shop, check out, delivery, load, and all of, like…
+
+[Ravi Badwe] 14:03:51
+full shopper fulfillment journey, right?
+
+[Ravi Badwe] 14:03:53
+So we would need signals. I mean, for example, for… to calculate probability of claim, we will need signals around…
+
+[Ravi Badwe] 14:04:00
+Um, where are the shoppers? What's their real-time location right now around the store?
+
+[Ravi Badwe] 14:04:04
+Right. Um, and, uh, also, like, some projections around
+
+[Ravi Badwe] 14:04:09
+traffic and, you know, a bunch of other things that actually get us to the point where we know that
+
+[Ravi Badwe] 14:04:15
+If this customer places order in, like,
+
+[Ravi Badwe] 14:04:16
+So if I manage…
+
+[Ravi Badwe] 14:04:18
+how much time it's gonna take us to deliver the order by basically calculating all the different
+
+[Ravi Badwe] 14:04:24
+things that have… you know, all the different legs that would… or other, you know, the timeframes that would be involved in getting
+
+[Ravi Badwe] 14:04:31
+From order placement all the way to order delivery.
+
+[Ravi Badwe] 14:04:34
+So, yeah, I went through that quickly, but yeah, these are…
+
+[Ravi Badwe] 14:04:39
+This is kind of quick spiel of what…
+
+[Ravi Badwe] 14:04:40
+You know, where we are getting with the ETA-based delivery, and giving that visibility on.
+
+[Ravi Badwe] 14:04:45
+on a GHP and RHP pages.
+
+[Dhepthi Lakshmi Narasimhan] 14:04:49
+One question I had before you drop off, like, um, as a part of this query for Q4, right, is that something, uh, product will be working on to prioritize one versus two, or two versus one, like that?
+
+[Dhepthi Lakshmi Narasimhan] 14:05:03
+Or as the prioritization already happened, like, we'll be doing one first, and then followed by…
+
+[Ravi Badwe] 14:05:08
+Yeah.
+
+[Ravi Badwe] 14:05:10
+Yeah, I know, um…
+
+[Ravi Badwe] 14:05:12
+And maybe, you know, this is my ignorance, but yes, we… we will start with RHP-THP updates, but that's going to be mostly the UX upgrades, but…
+
+[Ravi Badwe] 14:05:22
+The behind-the-scenes, the intelligence to have accurate time.
+
+[Ravi Badwe] 14:05:26
+shown to the customers on GHP and RHP.
+
+[Ravi Badwe] 14:05:30
+In my mind, I do think it is very similar to, like,
+
+[Ravi Badwe] 14:05:32
+the, you know, the availability that we would show and had…
+
+[Ravi Badwe] 14:05:36
+has to be driven by EPA-based, right? So, as we are developing this intelligence,
+
+[Ravi Badwe] 14:05:40
+I guess both the use cases can be met. I mean, we probably might start with…
+
+[Ravi Badwe] 14:05:45
+Yeah, well, a next step is definitely to give more visibility, because you already have
+
+[Ravi Badwe] 14:05:50
+proven, uh, you know, express delivery with the latest MVP experiment, so…
+
+[Ravi Badwe] 14:05:55
+We'll definitely start there, but…
+
+[Ravi Badwe] 14:05:57
+the intelligence behind the scene would…
+
+[Ravi Badwe] 14:05:59
+As and when it's available, it has to, kind of,
+
+[Ravi Badwe] 14:06:02
+It has to help or support both the GHP
+
+[Ravi Badwe] 14:06:06
+So, the visibility on GHPRSP pages, as well as the availability, the actual availability we show on the checkout page.
+
+[Dhepthi Lakshmi Narasimhan] 14:06:12
+Okay, so…
+
+[Dhepthi Lakshmi Narasimhan] 14:06:16
+Any, any questions anybody has?
+
+[Dhepthi Lakshmi Narasimhan] 14:06:25
+So, this is all from the product side. Since product had a conflict with the product console, we went with the product, but from the tech side, the kickoff,
+
+[Dhepthi Lakshmi Narasimhan] 14:06:35
+I think I kind of covered it, uh…
+
+[Dhepthi Lakshmi Narasimhan] 14:06:38
+for when one of the questions was asked, we will…
+
+[Dhepthi Lakshmi Narasimhan] 14:06:41
+Uh, so has how product is also doing a discovery of finding an opportunity sizing and…
+
+[Dhepthi Lakshmi Narasimhan] 14:06:48
+driving down to the MVP. Likewise, in Q4, we'll be majority of the time, we'll be spending on…
+
+[Dhepthi Lakshmi Narasimhan] 14:06:55
+finding a design pattern. For the sharper and then the delivery,
+
+[Dhepthi Lakshmi Narasimhan] 14:07:00
+we could reuse some of the POCs that was done for that prototype demo, but there are… there are pretty good, uh, details that we need to do a deep dive to get this, uh, get this working as a foundational piece. So those are the things that we will be focusing on in the Q4, um…
+
+[Dhepthi Lakshmi Narasimhan] 14:07:21
+And then beginning… beginning to start discussing with the corresponding, uh…
+
+[Dhepthi Lakshmi Narasimhan] 14:07:27
+Um, consumers that are listed here for fulfillment, if you see your, um, it's, uh, availability engine, which is a shopper supply team,
+
+[Dhepthi Lakshmi Narasimhan] 14:07:36
+And then the offering… offering team, uh, which is Cooper's team, and then followed by, for coverage, it will be Metropolis team.
+
+[Dhepthi Lakshmi Narasimhan] 14:07:51
+If there are no other questions, uh…
+
+[Dhepthi Lakshmi Narasimhan] 14:07:57
+I will move on to the final section.
+
+[Dhepthi Lakshmi Narasimhan] 14:08:04
+Any questions from anyone?
+
+[Dhepthi Lakshmi Narasimhan] 14:08:14
+The final part is, like, as we had this Q4 planned roadmap under fulfillment and coverage,
+
+[Dhepthi Lakshmi Narasimhan] 14:08:23
+We will be partnering with the corresponding product, which they were presenting earlier, right? Like Ravi and Felix.
+
+[Dhepthi Lakshmi Narasimhan] 14:08:32
+We will have, um, a dedicated sync, uh, going forward, and also,
+
+[Dhepthi Lakshmi Narasimhan] 14:08:40
+dedicated, uh, deliverables under that, uh, roadmap, uh,
+
+[Dhepthi Lakshmi Narasimhan] 14:08:45
+for Ravi and Felix. So, look for those invites from them, or me, uh, uh…
+
+[Dhepthi Lakshmi Narasimhan] 14:08:53
+And then, uh, ask any questions, and we do have a channel, uh, I think most of you would have already been there. If not, I will make sure that I'll add you guys.
+
+[Dhepthi Lakshmi Narasimhan] 14:09:03
+Uh, we do have a channel, uh, which we started as a part of when we were doing this prototype and this, uh, POC thing.
+
+[Dhepthi Lakshmi Narasimhan] 14:09:10
+We'll continue to use that, and feel free to post any questions that you guys have.
+
+[Dhepthi Lakshmi Narasimhan] 14:09:15
+Down the line. Thank you for all the partners.
+
+[Brian Ahearn] 14:09:18
+I have… I've got some questions I didn't know you were wrapping up. Um…
+
+[Brian Ahearn] 14:09:22
+Can we talk a little bit about the prototype, like, this prototype approach versus just, like, what… what the…
+
+[Brian Ahearn] 14:09:29
+expected architecture would be?
+
+[Dhepthi Lakshmi Narasimhan] 14:09:31
+Sure.
+
+[Dineshkumar’s Iphone] 14:09:32
+So, uh, yeah, I just want to make sure, when I say prototype, doesn't mean the architecture is ignored. It's basically, you will…
+
+[Dineshkumar’s Iphone] 14:09:40
+rather, I would say, the architecture will be thought of, Isaac as a staff in this, Isaac and I were discussing yesterday, we will build the architecture
+
+[Dineshkumar’s Iphone] 14:09:50
+While making sure we don't build a whole full architecture to
+
+[Dineshkumar’s Iphone] 14:09:56
+to the North Star, rather, the octave should be built modular. We already have some laid out, like, if you… the demo which we have shared is… has some concepts, like, how we want to go about it. So, the architecture will be built in
+
+[Dineshkumar’s Iphone] 14:10:10
+modularly, and piece by piece needed, while making sure we address the short-term use cases, because we don't want to place a very big bet without really seeing value as well. We are thinking of this as a platform, a geo-platform, and we started building the shopper engagement. It took us, like, 3 years to start getting the good value, at least 2 years, right? So, we're trying to avoid it here.
+
+[Dineshkumar’s Iphone] 14:10:29
+This is pretty cool, this is where we see a lot of value, we see a lot of interest, we see some good use cases. Like, a couple of the demos we already put together actually shows the value in there, like the shopper development location, member aggregates, and order real-time location served.
+
+[Dineshkumar’s Iphone] 14:10:42
+But we want to have it, like,
+
+[Dineshkumar’s Iphone] 14:10:45
+think about architecture, keep it evolving and iterative while we man…
+
+[Dineshkumar’s Iphone] 14:10:51
+while we start delivering value with the use case. That's exact… that's what we mean by…
+
+[Dineshkumar’s Iphone] 14:10:55
+prototype approach, if that makes sense to you.
+
+[Dineshkumar’s Iphone] 14:10:58
+So, you have a new topic.
+
+[Brian Ahearn] 14:10:58
+I agree. I mean, I agree with you on principle. I'm just trying to… I'm having a hard time visualizing what you mean, like, what that looks like in reality.
+
+[Dineshkumar’s Iphone] 14:11:09
+Meaning? Maybe I don't know what the question is, then.
+
+[Brian Ahearn] 14:11:13
+I mean, in my mind, the…
+
+[Brian Ahearn] 14:11:15
+we… the first step of this would be to build…
+
+[Brian Ahearn] 14:11:19
+a mapping of the hex layer.
+
+[Dineshkumar’s Iphone] 14:11:21
+Mm-hmm.
+
+[Brian Ahearn] 14:11:21
+And having an endpoint that a team could hit to say, given this,
+
+[Dineshkumar’s Iphone] 14:11:24
+Mm-hmm.
+
+[Brian Ahearn] 14:11:25
+address, what hex is it?
+
+[Dineshkumar’s Iphone] 14:11:27
+Mm-hmm. Um, given this… given this address, rather say Lac Long, what hexes is something…
+
+[Brian Ahearn] 14:11:29
+Is that…?
+
+[Brian Ahearn] 14:11:33
+Sure. Given this geo-coordinate, what adds… what hex is it within?
+
+[Dineshkumar’s Iphone] 14:11:35
+Yeah.
+
+[Dineshkumar’s Iphone] 14:11:38
+Okay, so… so that is already there, right? Like, that's very simple translation. When we say architecture, what it means is, like,
+
+[Dineshkumar’s Iphone] 14:11:45
+Think of it this way. So, I want to know, uh, for a given hex, I want to know the full average fulfillment time for the last 7 days, last 30 days.
+
+[Dineshkumar’s Iphone] 14:11:55
+Last one over. With time of the day. So when you think of that scaling, and then that granularity,
+
+[Dineshkumar’s Iphone] 14:12:03
+the way how you store the data, the way how you update the data, that is a system into architecture I'm talking about here.
+
+[Dineshkumar’s Iphone] 14:12:08
+So, you can go crazy about making sure you have a layer that collects everything and gives you all those details.
+
+[Dineshkumar’s Iphone] 14:12:15
+But do we have a use case that really supports it? So, which means we'll start with simple…
+
+[Dineshkumar’s Iphone] 14:12:22
+layer that aggregates it, like, meaning we already have a layer that aggregates the shoppers,
+
+[Dineshkumar’s Iphone] 14:12:27
+shop is current location, and gives you an… there are APIs available, like, we can share the APIs, whatever the API is already available. As of now, we already have APIs that gives you an XID on a given, uh, geocoordinate, or the number of shoppers in the current hex,
+
+[Dineshkumar’s Iphone] 14:12:41
+So those kind of things are already there, but that is very simple, but when we think of a whole system that can power a lot of use cases, that's where the architecture gets complex, and that's what we mean by
+
+[Dineshkumar’s Iphone] 14:12:51
+We'll keep building the architecture while we…
+
+[Dineshkumar’s Iphone] 14:12:53
+start solving the use cases. Uh, but maybe, I think, I'm not answering the question because I didn't get the question otherwise.
+
+[Brian Ahearn] 14:13:04
+It seems like, in my mind, the MVP's already done.
+
+[Brian Ahearn] 14:13:08
+I think the part is the part that I'm, like, struggling with, because, like, what you just said, we already have the ability to have a geocode map to a hex,
+
+[Dineshkumar’s Iphone] 14:13:14
+Mm-hmm.
+
+[Brian Ahearn] 14:13:15
+In which case, Metropolis shadow calling over to Hexes should already be…
+
+[Dhepthi Lakshmi Narasimhan] 14:13:20
+So, yeah.
+
+[Brian Ahearn] 14:13:21
+practically feasible, right?
+
+[Dhepthi Lakshmi Narasimhan] 14:13:22
+So that part was done only for the sharper side of the world, like, the sharper Meta X, to know, like, for a given order where the shoppers are, which locations the shoppers are, can we target…
+
+[Brian Ahearn] 14:13:33
+So that's… that's one of my questions about the architecture of this is, why was it done at a shopper level and not just at, like, a generic level?
+
+[Dineshkumar’s Iphone] 14:13:42
+I don't… I'm a little confused here, Brian. It's not necessarily this is done on a shopper level, but can only support shopper.
+
+[Dhepthi Lakshmi Narasimhan] 14:13:43
+Gentle level.
+
+[Dineshkumar’s Iphone] 14:13:50
+The code is generic, the core is hex layer, but I think we're talking, getting the execution, definitely, I can maybe… we need to have a different kind of conversation to get into those details, but what… when we see… when we show here, what…
+
+[Dineshkumar’s Iphone] 14:14:04
+maybe we can share the demo, which we made. Uh, that was done for sharper real-time location data, and then order aggregates, but that is…
+
+[Dineshkumar’s Iphone] 14:14:14
+We have a common layer, but
+
+[Dineshkumar’s Iphone] 14:14:16
+the syllabus system won't be always running together, so those are the details we're trying to figure out, like, as a part of this full-blown exercise, because what we did is, like, a week and a half effort,
+
+[Dineshkumar’s Iphone] 14:14:25
+to really show, before we get all this excitement, we actually had to build that in and show this is what possible.
+
+[Dineshkumar’s Iphone] 14:14:31
+And then that's what started triggering all the conversation, because this was written…
+
+[Dineshkumar’s Iphone] 14:14:35
+like, I don't know, 6 months back as a white, uh, one Word document, and then we didn't touch it for, like, 6 months, and then we built this for almost a week. Maybe a week and a half, and then show this is possible, this is how it works.
+
+[Dineshkumar’s Iphone] 14:14:48
+And then we started having this conversation. So there is, like… you're right, there's MVPs done for certain…
+
+[Dineshkumar’s Iphone] 14:14:54
+targeted use case, but you cannot build a platform in a week and a half, right? So that means whatever we build can… for example, like your question,
+
+[Dineshkumar’s Iphone] 14:15:04
+Can we do this whole coverage mapped out in the same system which we have? Possible, but is it the best way?
+
+[Dineshkumar’s Iphone] 14:15:10
+we don't know. That is what we mean by iteratively…
+
+[Dineshkumar’s Iphone] 14:15:13
+start putting those pieces where it should belong.
+
+[Dhepthi Lakshmi Narasimhan] 14:15:18
+The… another piece also, right, like, the resolution is what, like, which… which is better, or which is… which is suitable for a particular metro, or a particular region, or a particular use case is also comes under the discovery part.
+
+[Dhepthi Lakshmi Narasimhan] 14:15:32
+for POC or for a prototype, we just… we just chose to kind of showcase, uh,
+
+[Dhepthi Lakshmi Narasimhan] 14:15:39
+with the H8, and then we went with it, or H7, and then we went with it.
+
+[Dhepthi Lakshmi Narasimhan] 14:15:49
+those… those are all the components, like, year and there, as a collective, things will come under the tech discovery, um, brand.
+
+[Dhepthi Lakshmi Narasimhan] 14:15:58
+Maybe when we do the TDR, after we do this discovery, might answer your question as well. Like, to… you are asking in a way that, how do I see the full picture of the architecture as well, right?
+
+[Dhepthi Lakshmi Narasimhan] 14:16:12
+that one will come as we complete the TDR, when we do this discovery.
+
+[Brian Ahearn] 14:16:17
+Okay. And the ENG leads on this is gonna be Jack and Dinesh?
+
+[Brian Ahearn] 14:16:22
+And DJ, is that team?
+
+[Dhepthi Lakshmi Narasimhan] 14:16:24
+Uh, so it will be… it will be Dinesh, and then staff. We… we are planning to have staff here, which is ISA over here, and then Jack, and then Aditya.
+
+[Brian Ahearn] 14:16:34
+Okay.
+
+[Dhepthi Lakshmi Narasimhan] 14:16:36
+As… as we get…
+
+[Dhepthi Lakshmi Narasimhan] 14:16:38
+down the road, if things required, we'll bring… pull in more folks.
+
+[Dinesh Muniyandi] 14:16:43
+So, I jumped… I was jumping between devices, so I didn't see, John, your question, but I can answer. Again,
+
+[Dinesh Muniyandi] 14:16:49
+I… Brent, I think… I'm not trying to not answer your questions for sure. The way we went with this is,
+
+[Dinesh Muniyandi] 14:16:56
+we… we were, like, when… when Ion reached out to us, like, can you use expert coverage, or our stance was,
+
+[Dinesh Muniyandi] 14:17:02
+Polygon does a lot of things. We don't… we at least, don't see a huge ton of value just by doing coverage in HEX.
+
+[Dinesh Muniyandi] 14:17:09
+There are certain things which we can go further in, and we can leverage, but we should really rethink how the geo, because that's something we want to do 3 years back. Back then, we thought of HEX,
+
+[Dinesh Muniyandi] 14:17:18
+But we thought the… we thought that…
+
+[Dinesh Muniyandi] 14:17:21
+COVID system, ship systems who are not advanced enough for
+
+[Dinesh Muniyandi] 14:17:24
+Uh, hack, so we put off that idea. So that's why we came up with this, let's do it now.
+
+[Dinesh Muniyandi] 14:17:29
+for the whole fulfillment. That involves every single piece of it. Like, coverage plays a role,
+
+[Dinesh Muniyandi] 14:17:34
+fulfillment, shopper, everything plays a role. That's where the document was written with all the things we wanted to do.
+
+[Dinesh Muniyandi] 14:17:40
+So, we wrote that, but then there was some chatter happened, but then it was not
+
+[Dinesh Muniyandi] 14:17:45
+kicking off. So that's the reason why we went, let's do a small, really simple use case. One is tracking real-time shoppers.
+
+[Dinesh Muniyandi] 14:17:52
+If you go to a prediction, you do have a geohex URL, where you can see the real-time production traffic of shopper location currently. That is very easy to build.
+
+[Dinesh Muniyandi] 14:18:01
+But can you build the historical shop and location prediction? That's harder. That's where the system needs to be much more advanced to handle
+
+[Dinesh Muniyandi] 14:18:09
+scale, and also what cardinality of data you want to store, and that's where we need
+
+[Dinesh Muniyandi] 14:18:14
+it's not a simple ReadySpacked hex storage, rather it's more of a…
+
+[Dinesh Muniyandi] 14:18:19
+what kind of scaling, how… what kind of alternative you want to build in the system? That's a proper architecture. That needs more time and thinking.
+
+[Dinesh Muniyandi] 14:18:25
+And that's what we want to do, but that means investment. So that's where this conversation is happening.
+
+[Dinesh Muniyandi] 14:18:30
+And… but at the same time, just don't go and build the whole platform. Let's come with a simpler use case which we can solve.
+
+[Dinesh Muniyandi] 14:18:35
+And that's how the product identified a couple of use cases, and we are going to target those use cases while building this platform.
+
+[Dinesh Muniyandi] 14:18:40
+So we don't have a pure generic layer that can fit everything.
+
+[Dinesh Muniyandi] 14:18:44
+But we have some starting point for us to get us going.
+
+[Brian Ahearn] 14:18:49
+Yeah, so what are the use cases to get us going? Is it… what's… what are the primary use cases we're trying to solve for first?
+
+[Dinesh Muniyandi] 14:18:55
+The one which I think Ravi covered is the, um, ground GHP, where we have this, um,
+
+[Dinesh Muniyandi] 14:19:04
+If you go to Instacart, you will see that it'll tell you Target, you'll get it in 15 to 30 minutes. In Lowe's, you'll get it in 1 hour to one and a half hours. There's always a period, yeah, this page.
+
+[Brian Ahearn] 14:19:16
+Sure.
+
+[Dinesh Muniyandi] 14:19:16
+So, let's think of it this way, right? This one, right?
+
+[Dinesh Muniyandi] 14:19:19
+Every single member, we can't do the flagpine calculation for real time when someone goes into the page, because you don't even know if they're going to place an order. On the other hand, all of these are going to be hypothetical. So even if you go to Instacart, you will see Deliver by 9-12,
+
+[Dinesh Muniyandi] 14:19:30
+The moment you click in, the time changes to 9.30. Why is that? It has some aggregates, and then it tries to do some clustering, and then show you if you belong in that area. So this.
+
+[Dinesh Muniyandi] 14:19:40
+This would be very simple HEX use case. Like, for a single hex, we always know what is the average historical times by different time intervals.
+
+[Dinesh Muniyandi] 14:19:49
+And then we also probably know potential sharp as you go on that direction. So, with this knowledge, we'll try to give you some estimates for all the stores. But the moment you click in the store and try to put some orders,
+
+[Dinesh Muniyandi] 14:20:02
+Then comes the actual flight plan calculations. So now you see, rather than doing all the computations ahead for all the possibilities, we'll give you some aggregates in a hex layer, and then
+
+[Dinesh Muniyandi] 14:20:13
+we can then, once you go in, you can go into the specialized system that gets more and more close to the accuracy. So let's think of another use case, right? You are trying to place an order from a target,
+
+[Dinesh Muniyandi] 14:20:24
+We know the real-time location of a shopper, that there is a shopper in that target, actually is going to be in your hex in one hour later.
+
+[Dinesh Muniyandi] 14:20:31
+with us knowing the current location of the shopper hex ID and the future location in an hour. Maybe your hex or the neighboring hex. What this tells us is that that shopper is probably the perfect person we can target to you if you place an order in the next 30 minutes.
+
+[Dinesh Muniyandi] 14:20:45
+So, you place an order, and we target that to them on the reactive offering. So, just by knowing the current location of the shopper's hex, and then the future 30 minutes to 1 hour wet hex they could be, which is also possible, because we know
+
+[Dinesh Muniyandi] 14:21:00
+Their current work item and the current worklist and the potential route,
+
+[Dinesh Muniyandi] 14:21:04
+So, we can be more accurate in the reactive offering. And that's another thing, and we are… even zones, like, we can be doing better than what we have in the zones versus targeted incentives and promos.
+
+[Dinesh Muniyandi] 14:21:15
+So those are the things that you are trying to target at the beginning.
+
+[Dinesh Muniyandi] 14:21:19
+For example, the UI…
+
+[Brian Ahearn] 14:21:20
+What about, I mean, to me, those seem extremely complex. What about just partial zips?
+
+[Dinesh Muniyandi] 14:21:27
+We can. I mean, so the one difference with… we believe we can even do partial zips in
+
+[Dinesh Muniyandi] 14:21:33
+Uh, partial zips in with, uh, Polygon, right? But…
+
+[Dinesh Muniyandi] 14:21:37
+PEX makes it easier. We can do the partial zips, and whatever needed to… if we have the buy-in,
+
+[Dinesh Muniyandi] 14:21:43
+from the product, let's do the partial zips. These are the expectations.
+
+[Dinesh Muniyandi] 14:21:46
+We should do that. We should absolutely do that. Like, that's, uh… if we do the coverage mapping one-to-one with HEX,
+
+[Dinesh Muniyandi] 14:21:53
+Partnerships probably is the first thing we should do.
+
+[Brian Ahearn] 14:21:56
+Yeah, I would think that would be the easiest, and…
+
+[Dinesh Muniyandi] 14:21:59
+Yeah, and you know, since you've got a project, exactly, can you go back to the UI?
+
+[Dinesh Muniyandi] 14:22:06
+Yeah, not necessarily partial zips, right? Like, let's zoom in on the some places where there's a hex on and off. Like, let's zoom, zoom out. Yeah, the one on the up, the up a little bit.
+
+[Dhepthi Lakshmi Narasimhan] 14:22:06
+Dylan
+
+[Dinesh Muniyandi] 14:22:17
+come down, go up a little bit. Yeah, so you see here, we can even come… go granular on…
+
+[Dinesh Muniyandi] 14:22:22
+We wanted to extend, but based on our route,
+
+[Dinesh Muniyandi] 14:22:25
+We don't want to go to the next text, but the other hex, because the actual highway is going somewhere. We can be more finer, that you can actually get a lot more value if you do coverage. One-to-one mapping, polygon can do that. But once you do the one-to-one mapping, you can go much more niche, like, you can hop, skip,
+
+[Dinesh Muniyandi] 14:22:43
+hexes, and you… because of… because it could be possible the next hex is very complex to get in, because of the bridges, traffic, and whatever, but the hexnator, the further is probably… you have a belt road.
+
+[Dinesh Muniyandi] 14:22:54
+You can get in. So, you can… that is where we actually can unlock things for coverage. Like, that is where we should start
+
+[Dinesh Muniyandi] 14:23:01
+And that intelligence can be fueled in by your fulfillment time, which we collect on the delivery meta. Like, we've always seen
+
+[Dinesh Muniyandi] 14:23:10
+The immediate hex is so terrible to deliver, but the next hex is always pretty easy to deliver your density of water volume, or be it your… yeah, so see this.
+
+[Dinesh Muniyandi] 14:23:20
+Be it your density, be it some roads, that way,
+
+[Dinesh Muniyandi] 14:23:24
+So, you then build a coverage rather than just blindly expanding, to selectively picking things, right? That's…
+
+[Brian Ahearn] 14:23:28
+Yeah.
+
+[Dinesh Muniyandi] 14:23:31
+You're right, it makes total sense to do… I'd rather say partial zips, like, selective coverage, so…
+
+[Dinesh Muniyandi] 14:23:38
+We should do that.
+
+[Dhepthi Lakshmi Narasimhan] 14:23:39
+But that's where we first do this one-to-one, so that we get the technology out first.
+
+[Dhepthi Lakshmi Narasimhan] 14:23:46
+And then, further, when we improvise all these things, we keep the technology aside and focus on the improvements that we can bring into the table.
+
+[Dinesh Muniyandi] 14:23:57
+And all of these are also very, very experimental approach, in my opinion. You will think it will work, but when we launch, it only will know.
+
+[Dinesh Muniyandi] 14:24:05
+So, we are trying to be pretty open and then start building whatever makes sense. That's how we should, at least we're prioritizing. The moment we see some value and there's a cleaner path to implement, we should… the whole shopper
+
+[Dinesh Muniyandi] 14:24:18
+It's just us trying to put something together so that
+
+[Dinesh Muniyandi] 14:24:20
+we can get the excitement and start talking, because until we saw that
+
+[Dinesh Muniyandi] 14:24:25
+there was not much chatter on that.
+
+[Dinesh Muniyandi] 14:24:28
+whole topic.
+
+[Dhepthi Lakshmi Narasimhan] 14:24:33
+Um, John, before John goes, John had a question, uh, Nishadinh.
+
+[Dinesh Muniyandi] 14:24:40
+Uh, Mr. question, John, if you can ask, I'll answer and then go to Jax.
+
+[Jon Freer] 14:24:44
+I think a simplified version of this is…
+
+[Jon Freer] 14:24:48
+I just was curious how much
+
+[Jon Freer] 14:24:50
+of this initiative, I know, obviously, we're trying to prove out a lot of the technology, you know, actually tackle some use cases, prove out it can scale.
+
+[Jon Freer] 14:24:58
+How much of this initiative will be actually rethinking
+
+[Jon Freer] 14:25:03
+how we approach it entirely, in a lot of areas. Like, I know, like, the example I gave in the question was,
+
+[Jon Freer] 14:25:09
+You know, we have public pages for members where we say, just give us your zip code, and we'll give you some idea of coverage.
+
+[Dinesh Muniyandi] 14:25:17
+Mm-hmm.
+
+[Jon Freer] 14:25:17
+Um, and how, you know, how much to this… does this…
+
+[Jon Freer] 14:25:22
+adopting this technology and, like, how we plan on using it, actually just deprecate that entirely.
+
+[Jon Freer] 14:25:27
+And you'll see that, you know, our competitors in the space
+
+[Jon Freer] 14:25:31
+you know, require an address, even…
+
+[Jon Freer] 14:25:33
+on authenticated.
+
+[Jon Freer] 14:25:36
+Um, so I mainly ask him, because…
+
+[Jon Freer] 14:25:39
+I… I'm also bullish.
+
+[Dinesh Muniyandi] 14:25:41
+Mm-hmm.
+
+[Jon Freer] 14:25:41
+on it, um…
+
+[Jon Freer] 14:25:43
+And I've seen it at scale. I think what worries me is that we're going to be spending more time
+
+[Jon Freer] 14:25:49
+trying to map hexes to
+
+[Jon Freer] 14:25:52
+the existing processes, rather than changing
+
+[Jon Freer] 14:25:56
+how we approach these things from the get-go.
+
+[Dinesh Muniyandi] 14:25:59
+No, you hit the nail on the head, and that is actually always going to be a challenge, and in fact,
+
+[Jon Freer] 14:26:00
+Um…
+
+[Dinesh Muniyandi] 14:26:05
+When we were… in fact, HEX is the first thing when I joined Ship 3 years back, Andrew told me to look at.
+
+[Dinesh Muniyandi] 14:26:11
+So, there was a long history to it. It… but the one reason a Tora Android that is too complex at this point to do anything is we had a lot of foundational things which we are not addressing, right?
+
+[Jon Freer] 14:26:13
+Right.
+
+[Jon Freer] 14:26:21
+Right.
+
+[Dinesh Muniyandi] 14:26:22
+And you're also right, like, when we start talking about it, there might be always, like, this existing mapping process will happen.
+
+[Dinesh Muniyandi] 14:26:29
+So, I'm super open to do anything aggressive without
+
+[Dinesh Muniyandi] 14:26:35
+disrupting and try open to that. In fact, this whole ETA, the GHP page, we want to
+
+[Dinesh Muniyandi] 14:26:42
+come up completely different than what we do for Flight Plan and aggregates and snowflake tables, and the… we have sheets with averages, that's what we're using, actual CSV files, right? We're trying to use… let's… this use case is not necessarily extremely accurate, but we want a reasonable accuracy. Let's try it. So, let's see…
+
+[Dinesh Muniyandi] 14:26:57
+that rethinking and applying, and be able to show people value rather than trying to be
+
+[Dinesh Muniyandi] 14:27:03
+Because the moment… we can talk about pay with this. We can talk about how much time it'll take to start delivering something with a hex.
+
+[Dinesh Muniyandi] 14:27:09
+But the moment you go there, you're going to now compete with the existing systems, and you're going to run into what you exactly said. So that's why you're trying to
+
+[Dinesh Muniyandi] 14:27:15
+think of this express as a very new field, and we have this leeway, and we're trying to talk with Sanjeev and Ravi on this.
+
+[Dinesh Muniyandi] 14:27:22
+So, and like Brian is saying, if we want to do partial zip, especially the selective zips, maybe we can just completely come up with a fresh one.
+
+[Dinesh Muniyandi] 14:27:30
+pick a metro and then do the metropolis based on that, and I'm super open to what you're saying.
+
+[Dinesh Muniyandi] 14:27:36
+address, instead, just map by hex. Uh, and in fact, that's all there. We all need all your help too, like, because we are not experts either, we just…
+
+[Dinesh Muniyandi] 14:27:45
+We have ideas and thoughts, and then we're trying to put
+
+[Dinesh Muniyandi] 14:27:47
+things together and learn through the process, so there's nothing logged in. We are sharing it all early on, because
+
+[Dinesh Muniyandi] 14:27:54
+We think this will work this way. Even the baseline architecture is not logged in.
+
+[Dinesh Muniyandi] 14:27:59
+We are not married to any particular specific approach, super flexible, who were
+
+[Dinesh Muniyandi] 14:28:04
+Once a partner, whatever level, it will be helpful for us.
+
+[Jack Caspers] 14:28:10
+I think the one…
+
+[Dhepthi Lakshmi Narasimhan] 14:28:12
+One pager might be… oh, one… one minute, I'll give a…
+
+[Jack Caspers] 14:28:16
+Yeah, no, go ahead.
+
+[Dhepthi Lakshmi Narasimhan] 14:28:16
+Exactly. This is the one-pager that initially, uh, Dinesh wrote as well, like,
+
+[Dhepthi Lakshmi Narasimhan] 14:28:22
+How do we take it as, or do we just… the zips altogether, or we kind of go in that one?
+
+[Dhepthi Lakshmi Narasimhan] 14:28:28
+We have shared some thoughts over here as well. We can do it with our order intake flow completely and revamp with this one, or we can take it only fulfillment flow, or we can do all together. Like, there were different ideas or approaches that were shared as well.
+
+[Dhepthi Lakshmi Narasimhan] 14:28:45
+It is a good read if you guys are interested as well.
+
+[Jon Freer] 14:28:51
+Yeah, I would encourage also, if folks haven't read it, the actual blog articles that Uber has written about why they created this technology.
+
+[Jon Freer] 14:28:59
+And one of the primary motivations was to completely decouple themselves.
+
+[Jon Freer] 14:29:03
+From drawing arbitrary zones,
+
+[Jon Freer] 14:29:06
+from being, you know, bound to zip codes.
+
+[Jon Freer] 14:29:09
+Etc. So, like, they were… they were building this
+
+[Jon Freer] 14:29:12
+to get away from that. Um, so, like, that's mainly why I wanted to call it out, is that, like, if we, at most, really think in practice we're ever only going to be able to use this
+
+[Jon Freer] 14:29:22
+to map to those things?
+
+[Jon Freer] 14:29:25
+it's more of, like, is this…
+
+[Jon Freer] 14:29:27
+fitting the actual use case.
+
+[Jon Freer] 14:29:30
+correctly.
+
+[Dinesh Muniyandi] 14:29:30
+Yeah, so…
+
+[Brian Ahearn] 14:29:31
+I think my warning…
+
+[Brian Ahearn] 14:29:34
+is just simply when you… when we think about the use cases, let's find the use cases and build the things that don't require a ton of teams upstream or downstream to do work.
+
+[Brian Ahearn] 14:29:45
+Because that will just kill it, and people will be like, nah, if we have to do… I'll have all these teams commit?
+
+[Brian Ahearn] 14:29:50
+bodies of work to realize value from this, like…
+
+[Brian Ahearn] 14:29:53
+So, like, while we shouldn't do it just to map to zip codes,
+
+[Brian Ahearn] 14:29:57
+We should build it in a way that it can immediately be used and benefit teams without upstream and downstream teams having to change contracts and stuff.
+
+[Dinesh Muniyandi] 14:30:05
+No, I absolutely agree. In fact, that's actually how we are even picking the use cases, because I was burnt in with the whole zones thing. Like, uh, zones, if you… anybody who had seen, or anyone who had seen the visual, I've put in a John Ship,
+
+[Dinesh Muniyandi] 14:30:18
+everybody agrees zones should be changed, because nobody can see that visual and say the zone should stay as is.
+
+[Dinesh Muniyandi] 14:30:24
+But changing was extremely hard, because of all the teams that needs to change.
+
+[Brian Ahearn] 14:30:24
+Yeah.
+
+[Dinesh Muniyandi] 14:30:30
+So, I totally agree. We want to, one, pick use cases where it needs limited change, but we get a lot of value. Another, if we pick use case that is intrusive to the teams,
+
+[Dinesh Muniyandi] 14:30:40
+try to build it in a way that's least effort from other upstream teams to adopt it.
+
+[Dinesh Muniyandi] 14:30:45
+And that's actually why we also…
+
+[Dinesh Muniyandi] 14:30:49
+Like, we're not changing, oh, here it is, let's change bundling. So, all the DS partners, we did a presentation to them.
+
+[Dinesh Muniyandi] 14:30:54
+We say, let's come up with a way where your existing processes
+
+[Dinesh Muniyandi] 14:30:59
+evolves with this while you see value.
+
+[Dinesh Muniyandi] 14:31:01
+And I think that's where the balance is going to be there as well, John, like, this rethinking versus existing… I mean, you just don't want to get into…
+
+[Dinesh Muniyandi] 14:31:09
+roadblocks as well, so it's gonna be a balance for sure.
+
+[Jon Freer] 14:31:13
+Yeah, and I'm not… hopefully I'm not coming across that I want to, like, eat the whole elephant at once, like, we should just, like, do it.
+
+[Jon Freer] 14:31:19
+I just… I'm most worried about…
+
+[Jon Freer] 14:31:22
+not having at least higher-level buy-in on the concept, and then everybody just ending up with two ways.
+
+[Jon Freer] 14:31:28
+to do the same thing. Uh, for long term.
+
+[Jon Freer] 14:31:31
+Because we weren't able to sell that vision to the right folks.
+
+[Jon Freer] 14:31:35
+earlier, early on in the process, right?
+
+[Brian Ahearn] 14:31:37
+Well, in that sales thing, the same thing with zones is… it's just money, right? Zones didn't get buy-in because there's no one that can quantify how valuable the work is.
+
+[Dinesh Muniyandi] 14:31:38
+Agreed, agree.
+
+[Jon Freer] 14:31:46
+Right.
+
+[Brian Ahearn] 14:31:46
+And this will suffer the same fate if we can't quantify how valuable the work is.
+
+[Jon Freer] 14:31:50
+Yeah.
+
+[Dinesh Muniyandi] 14:31:50
+Right.
+
+[Dhepthi Lakshmi Narasimhan] 14:31:52
+Jack had something to say.
+
+[Dhepthi Lakshmi Narasimhan] 14:31:54
+you know…
+
+[Jack Caspers] 14:31:54
+Yeah, the, um… well, in terms of, I guess, part of it was actually gonna comment on was, like, going away from zip codes, because there's already, like, with, like, so the alcohol work and things like that, it's already kind of an effort to kind of go away, just from, like,
+
+[Jack Caspers] 14:32:05
+Generic zip codes. And, um, but that's already kind of happening in some other ways, too, where, um, because the way with, like, how things work with, like, network planning is, you know, you…
+
+[Jack Caspers] 14:32:14
+Especially with, um, some of the work we're doing in coverage with, like, scheduling, store location being open and whatnot, is where the way that kind of
+
+[Jack Caspers] 14:32:20
+already works is, um, you know,
+
+[Jack Caspers] 14:32:22
+determining, like, a drive time and things like that, then that will, like, apply to certain zip codes, and… but it's, like, the… the…
+
+[Jack Caspers] 14:32:28
+flags on those stores will get applied to those zip codes, or vice versa.
+
+[Jack Caspers] 14:32:32
+And so, I kind of just view this hex as, like, just playing into just going away from, uh,
+
+[Jack Caspers] 14:32:39
+zip-only approach, but zip codes are still going to have important, um… like, there might be important
+
+[Jack Caspers] 14:32:45
+compliance are the reasons why we need to keep track of those things. For TLMD and TLMD Direct, it's a little bit different.
+
+[Brian Ahearn] 14:32:51
+Just for business reporting alone, people are going to want to know zip codes. So, like…
+
+[Jack Caspers] 14:32:54
+Exactly, yeah.
+
+[Brian Ahearn] 14:32:55
+That's just… that's just how the world works right now.
+
+[Jack Caspers] 14:32:57
+But… and then the, um, for using this on top of the existing coverage system, I think it actually will
+
+[Jack Caspers] 14:33:04
+play fairly, like, fairly nicely in the sense of, like, it will give us a lot of insight into what is being… what's, um…
+
+[Jack Caspers] 14:33:09
+like, areas in coverage where we could, uh, that we might be missing. I think it's in, like, partial zips a bit, but, like,
+
+[Jack Caspers] 14:33:15
+You know, right now, it's kind of pretty manual, where it's like zip codes are enabled, and, uh, based on, um,
+
+[Jack Caspers] 14:33:22
+based on drive times and other parameters, and then… but it's hard to sort of, uh…
+
+[Jack Caspers] 14:33:28
+I feel like with this HEX approach, it'll be a lot easier to analyze, sort of, what's missing, where can we expand, and uh…
+
+[Jack Caspers] 14:33:35
+Things like that. Um, I had an original… I had another question, but I, um…
+
+[Jack Caspers] 14:33:40
+I lost it, I was trying to see if I can remember it.
+
+[Brian Ahearn] 14:33:44
+In my head, and tell me how wrong I am, because this is, again,
+
+[Brian Ahearn] 14:33:47
+non-technical for the most… I mean, whatever.
+
+[Brian Ahearn] 14:33:50
+This is a database.
+
+[Brian Ahearn] 14:33:53
+with all the hex IDs on a map and their corresponding parameters.
+
+[Brian Ahearn] 14:33:57
+like, the spatial parameters of the… of the boundaries of the hex.
+
+[Brian Ahearn] 14:34:01
+And then whatever additional rich parameters that we want to add to it. Population density, cost to serve the hex. If the hex is on or off.
+
+[Brian Ahearn] 14:34:10
+All these different things that would be… and then it's just a service to dig into that database to say, based on this geocode,
+
+[Brian Ahearn] 14:34:16
+What hex is it, and what are all the parameters, and then the service can behave accordingly?
+
+[Dinesh Muniyandi] 14:34:21
+Mm-hmm. Correct. I think you… you…
+
+[Dinesh Muniyandi] 14:34:24
+You explained it in a one-liner, but how… when you scale… when you think about scale and cardinality, that's when it gets complex. Other than that, it's just that.
+
+[Brian Ahearn] 14:34:26
+Okay.
+
+[Brian Ahearn] 14:34:32
+Okay, so…
+
+[Brian Ahearn] 14:34:34
+Is that… is building that database out, is that done, or is that work that needs to…
+
+[Dinesh Muniyandi] 14:34:38
+No. That database… so that's where the architecture comes in. Like, it's not a simple, simple lookups, because…
+
+[Dhepthi Lakshmi Narasimhan] 14:34:39
+It's not it.
+
+[Brian Ahearn] 14:34:43
+Yeah.
+
+[Dinesh Muniyandi] 14:34:46
+If you're… if all you need is…
+
+[Dinesh Muniyandi] 14:34:48
+Let's talk about one simple example.
+
+[Dinesh Muniyandi] 14:34:51
+The one UI we showed. You are a shopper here somewhere, you moved from one hex to another HEX, you increment your account in that hex and decrement your account in the hex. Very simple.
+
+[Dinesh Muniyandi] 14:35:00
+And then you drop off your system, 30 minutes, no heartbeat came in, we decrement. It's pretty simple, real time, it's already up there, working, we can go live with that.
+
+[Dinesh Muniyandi] 14:35:09
+But now think of… I want that…
+
+[Dinesh Muniyandi] 14:35:13
+Another data, for example, average fulfillment time, like, all the cardinalities and all the layers.
+
+[Dinesh Muniyandi] 14:35:18
+then it's not just ephemeral data. You need to collect it, store it, you basically have to make sure it doesn't go down, all the things you need to build with it, like what kind of
+
+[Brian Ahearn] 14:35:27
+Yeah, Shisoker, every… every parameter within that hex, you need a service feeding that parameter.
+
+[Dinesh Muniyandi] 14:35:28
+performance.
+
+[Dinesh Muniyandi] 14:35:31
+Okay.
+
+[Dinesh Muniyandi] 14:35:33
+Correct. Correct. The feed-in should happen, what if it fails, how… those are all the things which we build in, right? There's a core, then how it gets feed in, what we retain, how we retain,
+
+[Brian Ahearn] 14:35:34
+And, yeah.
+
+[Brian Ahearn] 14:35:39
+Yeah.
+
+[Dinesh Muniyandi] 14:35:43
+And then what… how do we look it up? What performance do you need on the lookups?
+
+[Dhepthi Lakshmi Narasimhan] 14:35:46
+Like, what parameter really makes sense is also… is a part of the discovery.
+
+[Dinesh Muniyandi] 14:35:49
+Yeah, so those are all what we need to figure out, like, what… are you going to go buy a Bigtable-backed HEX, or are you going to do a Postgres H?
+
+[Brian Ahearn] 14:35:49
+Right. So, like…
+
+[Dinesh Muniyandi] 14:35:58
+has both mostly what we'll do, Postgres with a H3 extension, those are the things which we haven't finalized yet.
+
+[Brian Ahearn] 14:36:03
+So, like, but to get started, I would think the database would be the hex, and then static parameters. Like, population density is a great example, which is why I like partial zips, because you can very quickly just say,
+
+[Dinesh Muniyandi] 14:36:12
+Yeah. Yes.
+
+[Brian Ahearn] 14:36:13
+This is what our map looks like today, this is what our map looks like if we said population density has to be greater than X.
+
+[Dinesh Muniyandi] 14:36:14
+Great.
+
+[Dinesh Muniyandi] 14:36:19
+Yeah.
+
+[Brian Ahearn] 14:36:19
+It doesn't change, it doesn't need an algorithm, it's just like…
+
+[Brian Ahearn] 14:36:22
+this is how it's different.
+
+[Dinesh Muniyandi] 14:36:22
+Yeah. Correct.
+
+[Brian Ahearn] 14:36:24
+And you can assign, you know, a value of people to say,
+
+[Brian Ahearn] 14:36:27
+by using HEX, we've unlocked X homes.
+
+[Dinesh Muniyandi] 14:36:30
+Yes. Yeah.
+
+[Brian Ahearn] 14:36:31
+wrecks heads, or whatever you want to call it.
+
+[Dinesh Muniyandi] 14:36:33
+Great, great. In fact, there are some of things which we know… there's no question of whether there's a big helpful or not, it's going to be useful no matter what, because now you have a…
+
+[Dinesh Muniyandi] 14:36:40
+all this static data and a good representation, and you can just use it for just discussions, even if you're not
+
+[Brian Ahearn] 14:36:43
+Yeah.
+
+[Brian Ahearn] 14:36:45
+You know, it'll be a lot easier to build AI models on top of it as well, because it's static, and it can be, you know, it doesn't keep changing with, like, ice chromes do.
+
+[Dinesh Muniyandi] 14:36:48
+Yeah.
+
+[Dinesh Muniyandi] 14:36:53
+Correct. So…
+
+[Brian Ahearn] 14:36:54
+Sorry, Blake, did you have a question?
+
+[Blake Weaver] 14:36:56
+Yeah, um, and the reason…
+
+[Blake Weaver] 14:37:00
+The big question is, like, okay, so, yes,
+
+[Blake Weaver] 14:37:02
+It's a database with rich parameters. The reason we're choosing HEX specifically
+
+[Blake Weaver] 14:37:07
+Um, to my understanding, it's because, one, it's a standard shape, and two, there's a mathematical benefit of the hex shape.
+
+[Blake Weaver] 14:37:14
+being overlaid on geography.
+
+[Dinesh Muniyandi] 14:37:17
+from a geography… I mean, geometry perspective,
+
+[Dinesh Muniyandi] 14:37:20
+the hex has this… the UberDoc, I think, whatever John linked should have it. Uh…
+
+[Dinesh Muniyandi] 14:37:26
+Yeah, that's true. Um…
+
+[Dinesh Muniyandi] 14:37:29
+So, there's this distance-to-distance, and…
+
+[Dinesh Muniyandi] 14:37:32
+And, yeah, this… it's there here. It's…
+
+[Dinesh Muniyandi] 14:37:36
+So, you can, you can be… it's… one is consistent,
+
+[Dinesh Muniyandi] 14:37:40
+I think Google… Uber has a pretty good document on why they picked
+
+[Dinesh Muniyandi] 14:37:44
+hexagon and stuff, a rectangle, maybe read that, then whatever I say, it's not gonna be pretty accurate as that.
+
+[Dinesh Muniyandi] 14:37:50
+And then you have this layer built in. Like, it's as simple as, like, you have this S4 layer that's made of skyboxes,
+
+[Dinesh Muniyandi] 14:37:57
+And there are other representations, but given the fact that this hex is supposed to be better and proven by Uber, and Uber provides you the library, it makes sense to just build it.
+
+[Dinesh Muniyandi] 14:38:07
+using this, so that you don't have to do something different.
+
+[Dhepthi Lakshmi Narasimhan] 14:38:11
+better way of representing the data.
+
+[Dinesh Muniyandi] 14:38:13
+Yeah.
+
+[Blake Weaver] 14:38:14
+Great. Thanks.
+
+[Dinesh Muniyandi] 14:38:15
+that uniform edges, and the article definitely talks more than what I can explain, because it's all…
+
+[Dinesh Muniyandi] 14:38:21
+experts writing it, and…
+
+[Dhepthi Lakshmi Narasimhan] 14:38:23
+I know we are over the time. Every time when we kind of have this discussion about eggs, uh, folks are excited, and we are running over the time.
+
+[Dhepthi Lakshmi Narasimhan] 14:38:32
+Uh, but if there are any follow-up questions or anything else,
+
+[Dhepthi Lakshmi Narasimhan] 14:38:36
+Please feel free to reach out in the channel.
+
+[Dhepthi Lakshmi Narasimhan] 14:38:39
+And as I mentioned earlier, um, either one of the product or myself will have some kind of, uh…
+
+[Dhepthi Lakshmi Narasimhan] 14:38:48
+serious meetings set up for this.
+
+[Dinesh Muniyandi] 14:38:52
+And this is a very good conversation. In fact, these are the conversations I think we should have more and more, especially when we are trying to do something really new and orthogonal to what we do.
+
+[Dhepthi Lakshmi Narasimhan] 14:38:52
+Okay.
+
+[Dinesh Muniyandi] 14:39:00
+Uh, so I really appreciate it, Brian and everybody. And, uh, John, uh, feel free to…
+
+[Dinesh Muniyandi] 14:39:06
+spend… if you have time,
+
+[Dinesh Muniyandi] 14:39:08
+I would love to invite you in all the meetings, and also, as everybody who wants to be involved in the architecture discussions.
+
+[Dinesh Muniyandi] 14:39:13
+Because we have… we are still fresh on… we haven't locked anything. We have systems running,
+
+[Dinesh Muniyandi] 14:39:18
+But it's just something we just put together really, really quickly. We didn't spend a lot of time on that, so we're super open to change.
+
+[Dhepthi Lakshmi Narasimhan] 14:39:26
+Thank you
+

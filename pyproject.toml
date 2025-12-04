@@ -12,9 +12,8 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-  "tiktoken>=0.7.0"
-  # "semchunk>=0.1.0",  # we can add this when we decide how to integrate it
-]
+  "tiktoken>=0.7.0",
+  "semchunk>=0.1.0", ]
 
 [project.scripts]
 transcript-chunker = "transcript_chunker.cli:main"
