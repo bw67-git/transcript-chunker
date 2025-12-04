@@ -5,5 +5,4 @@ src/*.egg-info/
 .DS_Store
 src/.DS_Store
 chunks/
-chunks_semchunk/
-examples/meeting_saved_closed_caption.txt
+transcripts/
