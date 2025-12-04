@@ -32,7 +32,7 @@ Installation (local development)
 
 From the project root:
 
-# Clone your repo (example)
+# Clone this repo (example)
 git clone https://github.com/bw67-git/transcript-chunker.git
 cd transcript-chunker
 
